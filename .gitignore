@@ -132,5 +132,4 @@ dmypy.json
 
 # macOS files generated automatically
 .DS_Store
-library/*
 .client_tmp/*
